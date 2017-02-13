@@ -1,0 +1,2 @@
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v2"
+  type="service" package="com.sohu.inputmethod.sogou" class="com.sogou.udp.push.PushService" sender="any" />
